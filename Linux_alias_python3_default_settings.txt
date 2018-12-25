@@ -1,0 +1,5 @@
+ls usr/bin/python*
+
+//you see all of the python versions 
+
+alias python="/usre/bin/python3._"
